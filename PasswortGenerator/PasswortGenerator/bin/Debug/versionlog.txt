@@ -1,0 +1,4 @@
+[Version 1.0.0]
+-Fully functional release
+-Password support up to 20 characters
+-saved in clear and hash or both in txt

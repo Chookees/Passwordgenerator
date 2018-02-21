@@ -1,0 +1,3 @@
+[21.02.2018 12:01:16] - Calling method above 8 - CPU usage: 2,473548%
+[21.02.2018 12:01:16] - Called method lownumupspec - CPU usage: 13,38106%
+[21.02.2018 12:01:24] - Successfully created Password on lownumupspec - CPU usage: 11,89093%
