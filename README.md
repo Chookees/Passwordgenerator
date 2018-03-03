@@ -11,7 +11,7 @@ where you want. For now it is created in the debug folder.
 
 The password will be automatically copied to the clipboard.
 
-This is verion 1.0.0
+Actual Version is 1.0.1
 
 Greets,
 A.Bobb
