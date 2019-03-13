@@ -11,6 +11,8 @@ where you want. For now it is created in the debug folder.
 
 The password will be automatically copied to the clipboard.
 
+
+[![Download Password_GeneratorbyAB](https://img.shields.io/sourceforge/dt/password-generatorbyab.svg)](https://sourceforge.net/projects/password-generatorbyab/files/latest/download)
 Actual Version is 1.0.1
 
 Greets,
